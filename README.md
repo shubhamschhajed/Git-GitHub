@@ -3,12 +3,12 @@ An introduction to all things Git
 
 
 # Git
-Git is a version control system that lets you track who made changes to what when and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser (current versions of Chrome, Firefox or Safari, or Internet Explorer version 9 or above).
+Git is a version control system that lets you track who made changes to what when and has options for easily updating a shared or public version of your code on [github.com](github.com). You will need a [supported](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/supported-browsers) web browser (current versions of Chrome, Firefox or Safari, or Internet Explorer version 9 or above).
 
-You will need an account at github.com for parts of this lesson. **Create a GitHub account if you don't have one already.** Basic GitHub accounts are free. You can also get a free GitHub Pro account for education. Use your university email address to create your GitHub account, then apply for an [education discount](https://education.github.com/benefits). Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.
+You will need an account at [github.com](github.com) for parts of this lesson. **Create a GitHub account if you don't have one already.** Basic GitHub accounts are free. You can also get a free GitHub Pro account for education. Use your university email address to create your GitHub account, then apply for an [education discount](https://education.github.com/benefits). Please consider what personal information you'd like to reveal. For example, you may want to review these [instructions for keeping your email address private](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address) provided at GitHub.
 
 # Windows
-Download the Git for Windows installer.
+Download the Git for Windows [installer](https://gitforwindows.org/).
 
 Run the installer and follow the steps below:
 
@@ -51,11 +51,11 @@ This will provide you with both Git and Bash in the Git Bash program.
 
 # macOS
 
-Video Tutorial
+[Video Tutorial](https://www.youtube.com/watch?v=9LQhwETCdwY)
 
-For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window.
+For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this [list](https://sourceforge.net/projects/git-osx-installer/files/). Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window.
 
-After installing Git, there will not be anything in your /Applications folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available here.
+After installing Git, there will not be anything in your /Applications folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" [available here](https://sourceforge.net/projects/git-osx-installer/files/).
 
 To ensure that you can use git with RStudio:
 
